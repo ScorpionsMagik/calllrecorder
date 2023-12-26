@@ -1,6 +1,4 @@
-// Adapted from Simple Recorder.js Demo https://github.com/addpipe/simple-recorderjs-demo
-// Recorderjs by: https://github.com/mattdiamond/Recorderjs
-//webkitURL is deprecated but nevertheless
+
 URL = window.URL || window.webkitURL;
 
 var gumStream; 						//stream from getUserMedia()
